@@ -1,3 +1,11 @@
+
+############################################################
+#This extension was made using ReactJS
+#Default webpacks and bundles were installed using :
+#npx create-react-app my-app
+#The build.zip file is obtained by running the npx run build command #mentioned below
+############################################################
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
